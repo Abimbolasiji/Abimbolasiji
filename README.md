@@ -1,10 +1,4 @@
-- 👋 Hi, I’m @Abimbolasiji
-- 👀 I’m interested in Data Analysis
-- 🌱 I’m currently learning Excel and SQL 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-Abimbolasiji/Abimbolasiji is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+ 👋 Hello there!, I’m Abimbola Olasiji
+- I’m interested in Data Analysis and continuously honing my skills in exploring and deriving insights from data using Excel and SQL.
+- This repository is a showcase of my journey as a beginner in the fascinating world of data.
+- You can reach me ----> abimbolasiji@gmail.com 
